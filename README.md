@@ -1,0 +1,1 @@
+BEN94Z Android microphone-reactive visualizer prototype. Upload all project files to a GitHub repository, then open Actions > Build Android APK > Run workflow. Download the APK artifact when the workflow succeeds. Not the complete desktop Python port; internal audio capture and original themes are not implemented.
